@@ -16,6 +16,7 @@ Python 3.x
 
 Running the Program
 Clone the repository:
+https://github.com/BRACKCK/KnowledgeBase.git
 
 Navigate to the project directory:
 cd KnowledgeBase
